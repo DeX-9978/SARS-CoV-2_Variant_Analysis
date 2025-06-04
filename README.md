@@ -28,3 +28,6 @@ The study applies several computational tools to analyze sequence mutations, phy
 - **Date:** June 2022
 - **Instructor:** Dr. Suresh Kumar
 - **Instituion:** Management & Science University
+---
+
+> _Note: This project was submitted as part of an undergraduate major project in Bioinformatics._
