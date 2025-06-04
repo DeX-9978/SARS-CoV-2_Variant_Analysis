@@ -27,3 +27,4 @@ The study applies several computational tools to analyze sequence mutations, phy
 - **Course:** Bachelors in Bioinformatics (Hons)
 - **Date:** June 2022
 - **Instructor:** Dr. Suresh Kumar
+- **Instituion:** Management & Science University
